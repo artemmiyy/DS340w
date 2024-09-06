@@ -1,6 +1,6 @@
 Authors:
-Artemii Polshcha, Nicholas Allen
+Artemii Polshcha, Nicholas Allen <br />
 Professor:
-Kaamran Raahemifar
+Kaamran Raahemifar <br />
 
 DS340w project covering Modern Portfolio Theory
